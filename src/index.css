@@ -1,0 +1,31 @@
+body {
+    font-family: ti;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #969AA1;
+    background-color: #2e2a28;
+    font-family: 'TF2Secondary', sans-serif;
+  }
+  
+  section {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #969AA1;
+  }
+  
+  h2 {
+    font-family: 'TF2Secundary';
+  }
+  
+  h3 {
+    font-family: 'TF2Secundary';
+  }
+  
+  p {
+    font-size: large;
+    color: #d6d8db;
+  }

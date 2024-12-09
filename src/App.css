@@ -1,0 +1,35 @@
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@font-face {
+  font-family: 'TF2';
+  src: url('/fonts/TF2.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TF2Build';
+  src: url('/fonts/tf2build.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TF2Professor';
+  src: url('/fonts/tf2professor.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TF2Secondary';
+  src: url('/fonts/TF2secondary.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+
+}

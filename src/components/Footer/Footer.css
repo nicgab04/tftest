@@ -1,0 +1,29 @@
+.fooly {
+  background: rgb(61, 58, 43);
+  color: #fff;
+}
+
+.logoon,
+.vavava {
+  opacity: 0.3;
+  transition: opacity 0.3s;
+  width: 100px; 
+  height: auto; 
+}
+
+.logoon:hover,
+.vavava:hover {
+  opacity: 0.5;
+}
+
+.Dicrip {
+  font-family: Tf2professor;
+  font-size: 35px;
+  margin: 0 auto;
+  max-width: 600px;
+  padding-top: 10px;
+}
+
+.teelin {
+  font-family: TF2secondary;
+}

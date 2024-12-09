@@ -1,0 +1,40 @@
+.bobii {
+    background-color: #b07630 ; 
+    width: 100%;
+  }
+  
+  .navbar .navbar-brand,
+  .navbar .nav-link {
+    color: rgb(213, 202, 146) ; 
+  }
+  
+  .navbar .nav-link:hover {
+    color: #f0e68c ; 
+  }
+  
+  .navbar-toggler {
+    border-color: rgb(134, 42, 42); 
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba%28255, 255, 255, 1%29' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+
+  }
+  
+  .navbar .dropdown-menu {
+    background-color: rgb(137, 131, 99); 
+  }
+  
+  .navbar .dropdown-item:hover {
+    background-color: #f0e68c; 
+    color: #dfdfdf;
+  }
+
+  .gmd {
+    color: #f0e68c;
+  }
+  
+  .krom{ 
+    width: 6;
+    height: 6;
+  }

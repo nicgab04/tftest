@@ -1,0 +1,34 @@
+.custom-header {
+  background: rgb(61, 58, 43);
+  color: #fad1d1;
+  padding: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+  font-family: 'TF2', sans-serif;
+  margin: auto;
+}
+
+.subtextio {
+  color: floralwhite;
+  margin: 0;
+}
+
+.tittlearch {
+  color: rgb(163, 163, 214);
+  margin: 0;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    margin-top: 1rem;
+  }
+}
+
+.Navbar { 
+  width: 100%;
+}

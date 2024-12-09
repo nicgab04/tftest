@@ -1,0 +1,29 @@
+
+.card {
+    margin: 2rem;
+    padding: 0.5rem;
+    border-radius: 1px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height:10px;
+
+  }
+  
+  .card-img-top {
+    height:160px;
+    width:80px;
+    max-width: 100%;
+    object-fit:contain;
+    background-color: rgb(66, 66, 108);
+  }
+  
+  .card-body {
+    text-align: center;
+    background-color: rgb(106, 100, 71);
+    
+  }
+
+  .colt { 
+    color: aqua;
+    
+  }
+  
